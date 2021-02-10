@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 ![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ian-adams&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ian-adams.visitor-badge)
